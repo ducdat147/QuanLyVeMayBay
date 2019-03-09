@@ -8,7 +8,7 @@ namespace Airline_Management.Controllers
 {
     public class DefaultController : Controller
     {
-        // GET: Default
+        /// GET: Default
         public ActionResult Index1()
         {
             return View();
